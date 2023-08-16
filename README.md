@@ -28,3 +28,11 @@ ChronoLite - это простая программа-секундомер с в
 ChronoLite - это отличный инструмент для отслеживания времени в различных ситуациях, будь то тренировки, кулинарные эксперименты или любые другие задачи, где вам нужен надежный секундомер.
 
 # Скриншоты программы
+![start time1](https://github.com/AirSoftick/ChronoLite/assets/141844045/cde41f59-a522-45f6-b6f6-b451915b4af1)
+
+![start time2](https://github.com/AirSoftick/ChronoLite/assets/141844045/d69fd80c-bc42-4149-a1bf-32f22f69168f)
+
+![start time3](https://github.com/AirSoftick/ChronoLite/assets/141844045/f8d21d81-930c-4b9d-bdaf-96e24e42ad24)
+
+
+
