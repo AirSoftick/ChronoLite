@@ -303,8 +303,7 @@ namespace ChronoLite
 
             isSettingsOpen = !isSettingsOpen;
         }
-
-        private void toggletopmost_CheckedChanged(object sender, EventArgs e)
+        private void toggletopmost_CheckedChanged_1(object sender, EventArgs e)
         {
             this.TopMost = toggletopmost.Checked;
         }
