@@ -114,6 +114,7 @@
             this.toggletopmost.UncheckedState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(137)))), ((int)(((byte)(149)))));
             this.toggletopmost.UncheckedState.InnerBorderColor = System.Drawing.Color.White;
             this.toggletopmost.UncheckedState.InnerColor = System.Drawing.Color.White;
+            this.toggletopmost.CheckedChanged += new System.EventHandler(this.toggletopmost_CheckedChanged);
             // 
             // buttonPlay
             // 
