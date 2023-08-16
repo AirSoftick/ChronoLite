@@ -1,0 +1,13 @@
+D:\repos\ChronoLite\ChronoLite\bin\Release\ChronoLite.exe.config
+D:\repos\ChronoLite\ChronoLite\bin\Release\ChronoLite.exe
+D:\repos\ChronoLite\ChronoLite\bin\Release\ChronoLite.pdb
+D:\repos\ChronoLite\ChronoLite\bin\Release\Guna.UI2.dll
+D:\repos\ChronoLite\ChronoLite\obj\Release\ChronoLite.csproj.AssemblyReference.cache
+D:\repos\ChronoLite\ChronoLite\obj\Release\ChronoLite.csproj.SuggestedBindingRedirects.cache
+D:\repos\ChronoLite\ChronoLite\obj\Release\ChronoLite.MainForm.resources
+D:\repos\ChronoLite\ChronoLite\obj\Release\ChronoLite.Properties.Resources.resources
+D:\repos\ChronoLite\ChronoLite\obj\Release\ChronoLite.csproj.GenerateResource.cache
+D:\repos\ChronoLite\ChronoLite\obj\Release\ChronoLite.csproj.CoreCompileInputs.cache
+D:\repos\ChronoLite\ChronoLite\obj\Release\ChronoLite.csproj.CopyComplete
+D:\repos\ChronoLite\ChronoLite\obj\Release\ChronoLite.exe
+D:\repos\ChronoLite\ChronoLite\obj\Release\ChronoLite.pdb
